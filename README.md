@@ -1,5 +1,3 @@
-***
-
 # Dimensionality Reduction Techniques: PCA, LDA, and Kernel PCA
 
 This project explores standard linear and non-linear dimensionality reduction techniques applied to classification problems. It includes both manual "from-scratch" implementations and comparisons with `scikit-learn` equivalents.
